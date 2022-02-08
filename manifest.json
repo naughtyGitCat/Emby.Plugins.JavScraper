@@ -25,7 +25,7 @@
         "checksum": "a41e6d54817cfd4cde3daa7b444bf11e"
       },
       {
-        "changelog": "增加计划任务：修复缺失的中文字幕标签，需要手动在“计划任务”中执行。",
+        "changelog": "try fix new jelly version",
         "checksum": "15956f0c653c5986e2b66a6119fa5532",
         "sourceUrl": "https://github.com/JavScraper/Emby.Plugins.JavScraper/releases/download/v1.2022.0208.2317/Jellyfin.JavScraper@v1.2022.0208.2317.zip",
         "targetAbi": "10.8.0.0",
